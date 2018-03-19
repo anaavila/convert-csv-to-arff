@@ -1,0 +1,50 @@
+%
+% Comments go after a '%' sign.
+%
+%
+% Relation: World Cup 2014
+%
+%
+% Attributes: 3     Instances: 32
+%
+%
+
+@relation World Cup 2014
+
+@attribute 'Country' {'algeria','argentina','australia','belgium','bosnia and herzegovina','brazil','cameroon','chile','colombia','costa rica','croatia','ecuador','england','france','germany','ghana','greece','honduras','iran','italy','ivory coast','japan','mexico','netherlands','nigeria','portugal','russia','south korea','spain','switzerland','united states','uruguay'}
+@attribute 'Group' {'h','f','b','a','c','d','e','g'}
+@attribute 'Position' numeric
+
+@data
+'algeria','h',2
+'argentina','f',1
+'australia','b',4
+'belgium','h',1
+'bosnia and herzegovina','f',3
+'brazil','a',1
+'cameroon','a',4
+'chile','b',2
+'colombia','c',1
+'costa rica','d',1
+'croatia','a',3
+'ecuador','e',3
+'england','d',4
+'france','e',1
+'germany','g',1
+'ghana','g',4
+'greece','c',2
+'honduras','e',4
+'iran','f',4
+'italy','d',3
+'ivory coast','c',3
+'japan','c',4
+'mexico','a',2
+'netherlands','b',1
+'nigeria','f',2
+'portugal','g',3
+'russia','h',3
+'south korea','h',4
+'spain','b',3
+'switzerland','e',2
+'united states','g',2
+'uruguay','d',2
