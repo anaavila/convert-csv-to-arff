@@ -1,7 +1,9 @@
-# Converting comma separated value (CSV) files 
+# Converts comma separated value (CSV) files 
 # to Attribute-Relation File Format (ARFF).
+# where 'converts' means that an arff file is created and populated with
+# the csv data. The csv file is not deleted or modified.
 #
-# @Author Ana Avila <linkhere>
+# @Author Ana Avila - github.com/anaavila
 # @Date December, 2016 - January, 2017
 #
 # Python 3.6
